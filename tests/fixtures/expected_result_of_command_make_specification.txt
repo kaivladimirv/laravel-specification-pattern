@@ -1,0 +1,20 @@
+<?php
+
+declare(strict_types=1);
+
+namespace App\Specifications;
+
+use Kaivladimirv\LaravelSpecificationPattern\AbstractSpecification
+
+class ExampleSpecification extends AbstractSpecification
+{
+    protected function defineMessage(): string
+    {
+        // TODO: Implement defineMessage() method.
+    }
+
+    protected function executeCheckIsSatisfiedBy(mixed $candidate): bool
+    {
+        return false;
+    }
+}
