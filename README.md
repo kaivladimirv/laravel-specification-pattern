@@ -1,5 +1,5 @@
 [![php linter](https://github.com/kaivladimirv/laravel-specification-pattern/actions/workflows/linter-check.yml/badge.svg)](https://github.com/kaivladimirv/laravel-specification-pattern/actions/workflows/linter-check.yml)
-[![tests](https://github.com/kaivladimirv/laravel-specification-pattern/actions/workflows/test-check.yml/badge.svg)](https://github.com/kaivladimirv/laravel-specification-pattern/actions/workflows/test-check.yml)
+[![tests](https://github.com/kaivladimirv/laravel-specification-pattern/actions/workflows/tests-check.yml/badge.svg)](https://github.com/kaivladimirv/laravel-specification-pattern/actions/workflows/tests-check.yml)
 <a href="https://php.net"><img src="https://img.shields.io/badge/php-8.1%2B-%238892BF" alt="PHP Programming Language"></a>
 
 ## Specification pattern for Laravel
