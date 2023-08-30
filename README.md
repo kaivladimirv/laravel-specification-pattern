@@ -93,7 +93,7 @@ $greaterThan100Spec->isSatisfiedBy(99); // false
 $greaterThan100Spec = new GreaterThanSpecification(100);
 
 $greaterThan100Spec->throwExceptionIfIsNotSatisfiedBy(200); // No exception will be thrown here
-$greaterThan100Spec->isSatisfiedBy(99); // An DomainException will be thrown herewith the message "Number must be greater than 100"
+$greaterThan100Spec->isSatisfiedBy(99); // An DomainException will be thrown here with the message "Number must be greater than 100"
 ```
 
 You can change the exception type in the getExceptionClass method:
