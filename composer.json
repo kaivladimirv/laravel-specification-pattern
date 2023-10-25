@@ -29,7 +29,8 @@
     "lint": "phpcs -- --standard=PSR12 src tests",
     "test": "vendor/bin/phpunit tests",
     "test-coverage": "XDEBUG_MODE=coverage ./vendor/bin/phpunit tests --coverage-clover build/logs/clover.xml",
-    "test-coverage-html": "XDEBUG_MODE=coverage ./vendor/bin/phpunit tests --coverage-html coverage"
+    "test-coverage-html": "XDEBUG_MODE=coverage ./vendor/bin/phpunit tests --coverage-html coverage",
+    "semgrep-offline": "semgrep scan --config auto --severity ERROR --use-git-ignore --error"
   },
   "require": {
     "php": "^8.1"
