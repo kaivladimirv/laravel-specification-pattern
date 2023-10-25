@@ -9,6 +9,9 @@ use Exception;
 
 abstract class AbstractSpecification implements SpecificationInterface
 {
+    /**
+     * @var array<int, string>
+     */
     private array $messages = [];
 
     final public function isSatisfiedBy(mixed $candidate): bool

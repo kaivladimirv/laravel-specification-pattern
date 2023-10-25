@@ -7,7 +7,7 @@ namespace Kaivladimirv\LaravelSpecificationPattern;
 class OrSpecification extends AbstractSpecification
 {
     /**
-     * @var SpecificationInterface[]
+     * @var array<int, SpecificationInterface>
      */
     private array $specifications;
 
