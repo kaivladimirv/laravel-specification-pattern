@@ -1,4 +1,4 @@
-[![php linter](https://github.com/kaivladimirv/laravel-specification-pattern/actions/workflows/linter-check.yml/badge.svg)](https://github.com/kaivladimirv/laravel-specification-pattern/actions/workflows/linter-check.yml)
+[![code style](https://github.com/kaivladimirv/laravel-specification-pattern/actions/workflows/code-style-check.yml/badge.svg)](https://github.com/kaivladimirv/laravel-specification-pattern/actions/workflows/code-style-check.yml)
 [![tests](https://github.com/kaivladimirv/laravel-specification-pattern/actions/workflows/tests-check.yml/badge.svg)](https://github.com/kaivladimirv/laravel-specification-pattern/actions/workflows/tests-check.yml)
 [![type coverage](https://shepherd.dev/github/kaivladimirv/laravel-specification-pattern/coverage.svg)](https://shepherd.dev/github/kaivladimirv/laravel-specification-pattern)
 [![psalm level](https://shepherd.dev/github/kaivladimirv/laravel-specification-pattern/level.svg)](https://psalm.dev/)
